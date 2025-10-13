@@ -40,7 +40,7 @@
     \vspace{0.3cm}
     \href{mailto:{{personalInformation.email}}}{{personalInformation.email}} \quad
     {{personalInformation.phone}} \quad
-    \href{https://github.com/{{personalInformation.github}}}{github.com/{{personalInformation.github}}} \quad
+    \href{https://{{personalInformation.site}}}{ {{personalInformation.site}} } \quad
     \href{https://www.linkedin.com/in/{{personalInformation.linkedin}}/}{linkedin.com/in/{{personalInformation.linkedin}}} \\
     {{personalInformation.location}}
 \end{center}
