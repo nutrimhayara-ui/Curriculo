@@ -43,7 +43,7 @@
                     {
                         "name": "R",
                         "level": "Intermediário"
-                    },
+                    }
                 ]
             }
         ]
@@ -76,7 +76,7 @@
                 "additionalInfo": [
                     {
                         "title": "Público alvo", "content": ["Atendimento a famílias."]
-                    },
+                    }
                 ]
             },
                         {
@@ -87,7 +87,7 @@
                 "additionalInfo": [
                     {
                         "title": "Público alvo", "content": ["Gestantes e crianças."]
-                    },
+                    }
                 ]
             },
                                     {
@@ -99,7 +99,7 @@
                 "additionalInfo": [
                     {
                         "title": "Áreas", "content": ["Cuidados paliativos."]
-                    },
+                    }
                 ]
             },
                                                 {
@@ -111,7 +111,7 @@
                 "additionalInfo": [
                     {
                         "title": "Áreas", "content": ["Gerontologia, cardiologia e oncologia."]
-                    },
+                    }
                 ]
             },
                                                 {
@@ -123,9 +123,9 @@
                 "additionalInfo": [
                     {
                         "title": "Áreas", "content": ["Banco de leite, UTI neonatal, alojamento conjunto e ambulatório."]
-                    },
+                    }
                 ]
-            },
+            }
         ]
     },
     "education": {
@@ -152,7 +152,7 @@
                 "startDate": "2017",
                 "endDate": "2023",
                 "location": "Rio de Janeiro, RJ"
-            },
+            }
         ]
     },
     "templates": [
