@@ -32,12 +32,12 @@ Existem duas formas de gerar os PDFs do currículo:
 
 ## Arquivos gerados
 
-- [Mayara - ATSFriendly - English.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20English.pdf)
-- [Mayara - ATSFriendly - Español.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20Espa%C3%B1ol.pdf)
-- [Mayara - ATSFriendly - Português.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20Portugu%C3%AAs.pdf)
-- [Mayara - CleanCV - English.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20English.pdf)
-- [Mayara - CleanCV - Español.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20Espa%C3%B1ol.pdf)
-- [Mayara - CleanCV - Português.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20Portugu%C3%AAs.pdf)
+- [Mayara - ATSFriendly - English.pdf](https://github.com/nutrimhayara-ui/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20English.pdf)
+- [Mayara - ATSFriendly - Español.pdf](https://github.com/nutrimhayara-ui/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20Espa%C3%B1ol.pdf)
+- [Mayara - ATSFriendly - Português.pdf](https://github.com/nutrimhayara-ui/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20Portugu%C3%AAs.pdf)
+- [Mayara - CleanCV - English.pdf](https://github.com/nutrimhayara-ui/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20English.pdf)
+- [Mayara - CleanCV - Español.pdf](https://github.com/nutrimhayara-ui/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20Espa%C3%B1ol.pdf)
+- [Mayara - CleanCV - Português.pdf](https://github.com/nutrimhayara-ui/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20Portugu%C3%AAs.pdf)
 
 ## Links Importantes
 
