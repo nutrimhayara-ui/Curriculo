@@ -101,8 +101,8 @@
 \iconitem{star-of-life}{ {{personalInformation.birthDate}} }
 \iconitem{phone}{ {{personalInformation.phone}} }
 \iconitem{envelope}{\href{mailto:{{personalInformation.email}}}{ {{personalInformation.email}} }}
-%\iconitem{code}{\href{https://www.seusite.com}{www.seusite.com}}
-\iconitem{github}{\href{https://github.com/{{personalInformation.github}}}{ /{{personalInformation.github}} }}
+\iconitem{code}{\href{https://{{personalInformation.site}} }{ {{personalInformation.site}} }}
+%\iconitem{github}{\href{https://github.com/{{personalInformation.github}}}{ /{{personalInformation.github}} }}
 \iconitem{linkedin}{\href{https://www.linkedin.com/in/{{personalInformation.linkedin}}}{ /{{personalInformation.linkedin}} }}
 \iconitem{map-marker-alt}{ {{personalInformation.location}} }
 
