@@ -1,211 +1,26 @@
 {
     "language": "pt",
     "personalInformation": {
-        "name": "Ellizeu Rodrigues Sena",
-        "occupation": "Engenheiro Eletrônico e de Computação",
+        "name": "Mayara Sena",
+        "occupation": "Nutricionista | CRN4: 23100287",
         "location": "Rio de Janeiro, RJ",
-        "email": "ellizeurs@hotmail.com",
-        "birthDate": "21/11/1999",
-        "phone": "+55 (21) 97261-6385",
-        "linkedin": "ellizeurs",
-        "github": "ellizeurs",
-        "lattes": "1344771646421983"
+        "email": "contato@mayarasena.com.br",
+        "birthDate": "25/02/1998",
+        "phone": "+55 (21) 992507680",
+        "linkedin": "mayara-ssena",
+        "lattes": "4915543318117875"
     },
     "aboutMe": {
         "title": "Sobre Mim",
-        "content": "Desenvolvedor apaixonado por novos desafios, já trabalhei em projetos de tecnologia em dois continentes (Europa e América). Forte conhecimento de metodologia ágil e trabalho muito bem em equipe. Espírito empreendedor!"
+        "content": "Nutricionista formada pela UFRJ, mestranda em Nutrição Humana e pós-graduanda em Terapia Nutricional, com experiência em pesquisa, clínica e cuidado nutricional voltado às áreas materno-infantil e de cuidados paliativos. Atuo com base em evidências científicas e em uma abordagem humanizada, integrando conhecimento técnico e sensibilidade para promover saúde, qualidade de vida e autonomia alimentar em diferentes fases e contextos do cuidado."
     },
     "goal": {
         "title": "Objetivo",
-        "content": "Meu objetivo é atuar na área de eletrônica e engenharia da computação, com foco em computação, ciência de dados, desenvolvimento web e aprendizado de máquina."
+        "content": "Atuar na área clínica e de pesquisa, com foco em nutrição materno-infantil, terapia nutricional e cuidados paliativos, contribuindo para o desenvolvimento de práticas nutricionais seguras, éticas e humanizadas. Busco integrar o conhecimento científico à prática assistencial, ampliando o impacto positivo da nutrição na saúde das pessoas e comunidades."
     },
     "skills": {
         "title": "Habilidades",
         "content": [
-            {
-                "group": "Linguagens de Programação",
-                "icon": "faCode",
-                "skills": [
-                    {
-                        "name": "Python",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "Bash",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "PHP",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "Java",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "JavaScript",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "Node.js",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "TypeScript",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "C",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "C++",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "C\\#",
-                        "level": "Avançado"
-                    }
-                ]
-            },
-            {
-                "group": "Bancos de dados",
-                "icon": "faDatabase",
-                "skills": [
-                    {
-                        "name": "MySQL",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "PostgreSQL",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "MongoDB",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
-            {
-                "group": "Frameworks e Bibliotecas",
-                "icon": "faCodeBranch",
-                "skills": [
-                    {
-                        "name": "React",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "Angular",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Django",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "FastAPI",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Next.js",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
-            {
-                "group": "Inteligência Artificial",
-                "icon": "faBrain",
-                "skills": [
-                    {
-                        "name": "TensorFlow",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "PyTorch",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Keras",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "BERT",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "GPT",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "LLaMa",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "LLM",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
-            {
-                "group": "Processamento de Linguagem Natural",
-                "icon": "faNetworkWired",
-                "skills": [
-                    {
-                        "name": "NLTK",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "spaCy",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Transformers",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "OpenAI",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "RAG",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "LangChain",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "LangGraph",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
-            {
-                "group": "Linguagens de marcação e estilo",
-                "icon": "faPenNib",
-                "skills": [
-                    {
-                        "name": "HTML",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "CSS",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "Markdown",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "\\LaTeX",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "SASS",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
             {
                 "group": "Pacote Office",
                 "icon": "faFont",
@@ -217,65 +32,17 @@
                 ]
             },
             {
-                "group": "Sistemas operacionais",
-                "icon": "faCogs",
-                "skills": [
-                    {
-                        "name": "Windows",
-                        "level": "Avançado"
-                    },
-                    {
-                        "name": "Linux",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
-            {
-                "group": "Cloud",
-                "icon": "faCloud",
-                "skills": [
-                    {
-                        "name": "AWS",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Azure",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Google Cloud",
-                        "level": "Intermediário"
-                    }
-                ]
-            },
-            {
                 "group": "Ferramentas e tecnologias",
                 "icon": "faTools",
                 "skills": [
                     {
-                        "name": "VSCode",
+                        "name": "Banco de Dados",
                         "level": "Intermediário"
                     },
                     {
-                        "name": "Git",
+                        "name": "R",
                         "level": "Intermediário"
                     },
-                    {
-                        "name": "Docker",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Kubernetes",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "Scrum",
-                        "level": "Intermediário"
-                    },
-                    {
-                        "name": "DevOps",
-                        "level": "Intermediário"
-                    }
                 ]
             }
         ]
@@ -301,56 +68,63 @@
         "title": "Experiência Profissional",
         "content": [
             {
-                "company": "FundX Academy",
-                "position": "Desenvolvedor Back End | Tech leader",
-                "startDate": "Mai 2022",
-                "endDate": "Out 2022",
-                "location": "Porto, Portugal",
+                "company": "Home Care",
+                "position": "Nutricionista",
+                "startDate": "07/2024",
+                "location": "Rio de Janeiro",
                 "additionalInfo": [
                     {
-                        "title": "Resumo", "content": ["Trabalhei no desenvolvimento de uma plataforma de educação financeira com foco no mercado latino-americano, com videoaulas, lives e PDFs hospedados em servidores próprios."]
+                        "title": "Público alvo", "content": ["Atendimento a famílias."]
                     },
+                ]
+            },
+                        {
+                "company": "Consultório particular",
+                "position": "Nutricionista",
+                "startDate": "07/2024",
+                "location": "Rio de Janeiro",
+                "additionalInfo": [
                     {
-                        "title": "Habilidades", "content": ["NodeJS", "AWS", "SQL", "noSQL", "OAuth"]
+                        "title": "Público alvo", "content": ["Gestantes e crianças."]
                     },
+                ]
+            },
+                                    {
+                "company": "Instituto Nacional de Câncer",
+                "position": "Pesquisadora coordenadora",
+                "startDate": "07/2023",
+                "endDate": "08/2024",
+                "location": "Rio de Janeiro",
+                "additionalInfo": [
                     {
-                        "title": "Funções", "content": ["Desenvolvimento back-end", "Gestão de equipe de desenvolvimento", "Seleção de tecnologias utilizadas."]
-                    }
+                        "title": "Áreas", "content": ["Cuidados paliativos."]
+                    },
                 ]
             },
-            {
-                "company": "Empresa de Pesquisa Energética",
-                "position": "Cientista de Dados",
-                "startDate": "Out 2021",
-                "endDate": "Out 2023",
-                "location": "Rio de Janeiro, RJ",
+                                                {
+                "company": "H.U. Clementino Fraga Filho",
+                "position": "Estagiária",
+                "startDate": "11/2022",
+                "endDate": "01/2023",
+                "location": "Rio de Janeiro",
                 "additionalInfo": [
-                    {"title": "Habilidades", "content": ["Python", "Linux", "Controle de versão", "Shell script", "Microsoft Excel", "Git", "Infraestrutura de nuvem", "Criação de scripts", "Algoritmos", "Microsoft Office", "PyTorch"]}
+                    {
+                        "title": "Áreas", "content": ["Gerontologia, cardiologia e oncologia."]
+                    },
                 ]
             },
-            {
-                "company": "Universinagem",
-                "position": "Desenvolvedor Full-stack",
-                "startDate": "Out 2019",
-                "endDate": "Jan 2025",
-                "location": "Rio de Janeiro, RJ",
+                                                {
+                "company": "Maternidade Escola",
+                "position": "Estagiária",
+                "startDate": "07/2022",
+                "endDate": "09/2023",
+                "location": "Rio de Janeiro",
                 "additionalInfo": [
-                    {"title": "Resumo", "content": ["Trabalhei no desenvolvimento de uma plataforma de cotações automatizada para a área de impressão 3D com visualização de arquivos CAD, integrada a uma plataforma de envio e pagamento."]},
-                    {"title": "Habilidades", "content": ["PHP", "Javascript", "OAuth", "CSS", "MySQL", "Python", "Linux", "Git"]},
-                    {"title": "Funções", "content": ["Criação e Manutenção da plataforma.", "Monitoramento de servidores.", "Automação de tarefas."]}
+                    {
+                        "title": "Áreas", "content": ["Banco de leite, UTI neonatal, alojamento conjunto e ambulatório."]
+                    },
                 ]
             },
-            {
-                "company": "Minerva Rockets",
-                "position": "Engenheiro de Inovação",
-                "startDate": "Out 2019",
-                "endDate": "Mar 2022",
-                "location": "Rio de Janeiro, RJ",
-                "additionalInfo": [
-                    {"title": "Habilidades", "content": ["C (linguagem de programação)", "Inovação tecnológica", "Controle de versão", "Banco de dados", "GitHub", "Engenharia", "HTML", "Documentação técnica", "Padrões de design", "Angular (Framework)", "Git", "Scrum", "Automação", "Banco de dados SQL", "Algoritmos", "Django", "REST (Transferência de estado representacional)", "Aplicativos web", "Desenvolvimento de back-end", "Servidor Apache"]},
-                    {"title": "Funções", "content": ["Desenvolvimento de soluções inovadoras", "Gerenciamento de projetos", "Colaboração em equipe multidisciplinar"]}
-                ]
-            }
         ]
     },
     "education": {
@@ -358,27 +132,26 @@
         "content": [
             {
                 "institution": "Universidade Federal do Rio de Janeiro",
-                "title": "Mestre em Engenharia Elétrica",
+                "title": "Mestre em Nutrição Humana",
                 "degree": "Mestrado",
                 "startDate": "2024",
                 "location": "Rio de Janeiro, RJ"
             },
             {
                 "institution": "Universidade Federal do Rio de Janeiro",
-                "title": "Bacharel em Engenharia Eletrônica",
-                "degree": "Bacharel",
-                "startDate": "2017",
-                "endDate": "2024",
+                "title": "Terapia Nutricional",
+                "degree": "Pós Graduação",
+                "startDate": "2023",
                 "location": "Rio de Janeiro, RJ"
             },
             {
-                "institution": "FAETEC RJ - E.T.E. João Luiz do Nascimento",
-                "title": "Técnico em Eletrônica",
-                "degree": "Ensino Médio e Técnico",
-                "startDate": "2014",
-                "endDate": "2016",
-                "location": "Nova Iguaçu, RJ"
-            }
+                "institution": "Universidade Federal do Rio de Janeiro",
+                "title": "Bacharel em Nutrição",
+                "degree": "Bacharel",
+                "startDate": "2017",
+                "endDate": "2023",
+                "location": "Rio de Janeiro, RJ"
+            },
         ]
     },
     "templates": [
