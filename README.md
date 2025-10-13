@@ -32,14 +32,14 @@ Existem duas formas de gerar os PDFs do currículo:
 
 ## Arquivos gerados
 
-- [Ellizeu - ATSFriendly - English.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Ellizeu%20-%20ATSFriendly%20-%20English.pdf)
-- [Ellizeu - ATSFriendly - Español.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Ellizeu%20-%20ATSFriendly%20-%20Espa%C3%B1ol.pdf)
-- [Ellizeu - ATSFriendly - Português.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Ellizeu%20-%20ATSFriendly%20-%20Portugu%C3%AAs.pdf)
-- [Ellizeu - CleanCV - English.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Ellizeu%20-%20CleanCV%20-%20English.pdf)
-- [Ellizeu - CleanCV - Español.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Ellizeu%20-%20CleanCV%20-%20Espa%C3%B1ol.pdf)
-- [Ellizeu - CleanCV - Português.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Ellizeu%20-%20CleanCV%20-%20Portugu%C3%AAs.pdf)
+- [Mayara - ATSFriendly - English.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20English.pdf)
+- [Mayara - ATSFriendly - Español.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20Espa%C3%B1ol.pdf)
+- [Mayara - ATSFriendly - Português.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20ATSFriendly%20-%20Portugu%C3%AAs.pdf)
+- [Mayara - CleanCV - English.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20English.pdf)
+- [Mayara - CleanCV - Español.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20Espa%C3%B1ol.pdf)
+- [Mayara - CleanCV - Português.pdf](https://github.com/ellizeurs/Curriculo/blob/main/PDFs/Mayara%20-%20CleanCV%20-%20Portugu%C3%AAs.pdf)
 
 ## Links Importantes
 
-* [Currículo Lattes](http://lattes.cnpq.br/1344771646421983)
-* [Perfil no LinkedIn](https://www.linkedin.com/in/ellizeurs/)
+* [Currículo Lattes](http://lattes.cnpq.br/4915543318117875)
+* [Perfil no LinkedIn](https://www.linkedin.com/in/mayara-ssena/)
