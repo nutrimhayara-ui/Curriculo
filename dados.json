@@ -13,11 +13,7 @@
     },
     "aboutMe": {
         "title": "Sobre Mim",
-        "content": "Nutricionista formada pela UFRJ, mestranda em Nutrição Humana e pós-graduanda em Terapia Nutricional, com experiência em pesquisa e clínica. Atuo com base em evidências científicas e em uma abordagem humanizada, integrando conhecimento técnico e sensibilidade para promover saúde, qualidade de vida e autonomia alimentar em diferentes fases e contextos do cuidado."
-    },
-    "goal": {
-        "title": "Objetivo",
-        "content": "Atuar na área clínica e de pesquisa, com foco em nutrição materno-infantil, terapia nutricional e cuidados paliativos, contribuindo para o desenvolvimento de práticas nutricionais seguras, éticas e humanizadas. Busco integrar o conhecimento científico à prática assistencial, ampliando o impacto positivo da nutrição na saúde das pessoas e comunidades."
+        "content": "Nutricionista formada pela UFRJ, mestranda em Nutrição Humana e pós-graduada em Terapia Nutricional, com aperfeiçoamento em cuidados paliativos, experiência em clínica e gestão de produção."
     },
     "skills": {
         "title": "Habilidades",
@@ -58,10 +54,6 @@
             {
                 "name": "Inglês",
                 "level": "C1"
-            },
-            {
-                "name": "Espanhol",
-                "level": "B2"
             }
         ]
     },
@@ -69,6 +61,29 @@
         "title": "Experiência Profissional",
         "content": [
             {
+                "company": "Residencial Doce Lar - Instituição de Longa Permanência Para Idosos",
+                "position": "Nutricionista Clínico e de Produção",
+                "startDate": "03/2026",
+                "location": "Minas Gerais",
+                "additionalInfo": [
+                    {
+                        "title": "Funções:", "content": ["Assistência Nutricional, Planejamento de Cardápios e Controle de Qualidade."]
+                    }
+                ]
+            },
+                        {
+                "company": "Maternidade Escola - UFRJ",
+                "position": "Nutricionista",
+                "startDate": "01/2025",
+                "endDate": "12/2025",
+                "location": "Rio de Janeiro",
+                "additionalInfo": [
+                    {
+                        "title": "Funções", "content": ["Atendimento ambulatorial a gestantes com Diabetes Mellitus 1 e 2 prévio à gestação."]
+                    }
+                ]
+            },
+                        {
                 "company": "Home Care",
                 "position": "Nutricionista",
                 "startDate": "07/2024",
@@ -84,11 +99,6 @@
                 "position": "Nutricionista",
                 "startDate": "07/2024",
                 "location": "Rio de Janeiro",
-                "additionalInfo": [
-                    {
-                        "title": "Público alvo", "content": ["Gestantes e crianças."]
-                    }
-                ]
             },
                                     {
                 "company": "Instituto Nacional de Câncer",
@@ -142,7 +152,8 @@
                 "institution": "Universidade Federal do Rio de Janeiro",
                 "title": "Terapia Nutricional",
                 "degree": "Pós Graduação",
-                "startDate": "2023",
+                "startDate": "2024",
+                 "endDate": "2026",
                 "location": "Rio de Janeiro, RJ"
             },
             {
