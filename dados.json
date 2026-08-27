@@ -15,6 +15,10 @@
         "title": "Sobre Mim",
         "content": "Nutricionista formada pela UFRJ, mestranda em Nutrição Humana e pós-graduada em Terapia Nutricional, com aperfeiçoamento em cuidados paliativos, experiência em clínica e gestão de produção."
     },
+        "goal": {
+        "title": "Objetivo",
+        "content": "Atuar na assistência nutricional individualizada, junto a equipe multiprofissional contribuindo para a promoção da saúde e qualidade de vida dos pacientes."
+    },
     "skills": {
         "title": "Habilidades",
         "content": [
